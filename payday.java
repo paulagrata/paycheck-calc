@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class GrataPayday {
+public class Payday {
 
     /**
      * deterimines gross pay
