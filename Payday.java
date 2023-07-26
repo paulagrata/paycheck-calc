@@ -154,5 +154,3 @@ public class Payday {
     }
     
 }
-
-// i struggle with functions so i tried to add one in every spot i could to practice
